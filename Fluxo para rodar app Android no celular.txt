@@ -1,0 +1,14 @@
+Rodar no celular:
+
+Ativar modo desenvolvedor no aparelho
+Busca nas configurações pela versão do software
+Geralmente está em 'Sobre o dispositivo'
+Clica várias vezes seguidas nessa opção, até aparecer 'Faltam tantas etapas para se tornar um desenvolvedor'
+Após apertar 5 vezes seguidas, com esse aviso aparecendo, insere o PIN do dispositivo
+Vai na tela principal das configurações e busca por 'Opções do desenvolvedor'
+Certifica de que o modo está ativado e também ativa o modo 'Depuração USB'
+Pluga o celular no computador usando um cabo bom (muitas vezes um cabo ruim não é reconhecido pelo PC)
+Vai aparecer uma mensagem no celular para você permitir a depuração USB pelo computador conectado (sempre aparecerá em um PC novo)
+Marca para sempre autorizar esse PC (se for um PC de confiança)
+E pronto!
+Agora na lista de dispositivos, o seu celular deverá aparecer
