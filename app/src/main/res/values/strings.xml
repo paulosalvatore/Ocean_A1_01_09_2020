@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Ocean_A1_01_09_2020</string>
+    <string name="hint_nome">O seu nome aparecerá aqui</string>
+    <string name="hint_input_nome">Digite o seu nome</string>
+    <string name="hint_idade">Idade</string>
+    <string name="limpar">Limpar</string>
+    <string name="atualizar">Atualizar</string>
 </resources>
