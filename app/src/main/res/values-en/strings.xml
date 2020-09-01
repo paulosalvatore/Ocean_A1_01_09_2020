@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean_A1_01_09_2020</string>
+    <string name="hint_nome">Your name will be shown here</string>
+    <string name="hint_input_nome">Insert your name</string>
+    <string name="hint_idade">Age</string>
+    <string name="limpar">Clear</string>
+    <string name="atualizar">Update</string>
+</resources>
