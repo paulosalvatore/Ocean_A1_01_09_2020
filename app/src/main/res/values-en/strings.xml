@@ -6,4 +6,5 @@
     <string name="hint_idade">Age</string>
     <string name="limpar">Clear</string>
     <string name="atualizar">Update</string>
+    <string name="error_nome">Insert a valid name</string>
 </resources>
