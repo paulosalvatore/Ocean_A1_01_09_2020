@@ -28,6 +28,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+        android:autofillHints="name"
         android:ems="10"
         android:hint="@string/hint_input_nome"
         android:inputType="textPersonName"
